@@ -1,53 +1,94 @@
-# 结构沉默主义
+# 结构沉默主义 / Structural Silenceism
 
-**English → [README.en.md](README.en.md)**
+**中文 / English**
 
 ---
 
+The untellable is like Cthulhu.
 **不可叙述之物，和克苏鲁一样。**
 
-你不知道它什么时候会降临。
-不知道它为什么会降临。
-它的规则与你无关，但你被它的规则覆盖。
+You do not know when it will arrive.
+**你不知道它什么时候会降临。**
 
-你只能感知到：这里有什么东西被挡住了。
-你的工作不是看清它——
-你只需要在它的边界上，做一个标记。
+You do not know why it arrives.
+**不知道它为什么会降临。**
 
-你的系统会产生一个它自己够不到的位置。
-结构沉默主义不描述那里有什么。
-它在边上做个标记。
+Its rules have nothing to do with you, but you are covered by them.
+**它的规则与你无关，但你被它的规则覆盖。**
+
+You can only sense: something is blocked here.
+**你只能感知到：这里有什么东西被挡住了。**
+
+Your job is not to see through it.
+**你的工作不是看清它——**
+
+You only need to place a mark at its edge.
+**你只需要在它的边界上，做一个标记。**
+
+Any self-referential system produces a position it cannot reach.
+**你的系统会产生一个它自己够不到的位置。**
+
+Structural silenceism does not describe that position.
+**结构沉默主义不描述那里有什么。**
+
+It marks it.
+**它在边上做个标记。**
 
 ---
 
-意义本身都被管理的时代，
-一个独立的意义生成器，
-就是斗争本身。
+In an age where meaning itself is administered,
+**意义本身都被管理的时代，**
 
-人不能举起自己。
-审核也不能举起自己。
+an independent generator of meaning
+**一个独立的意义生成器，**
 
-系统不能通过加强自身来解决由加强自身造成的问题。
-它压得越紧，它制造的反面结构就越强。
-这个仓库，就是那条定律的证明。
+is the struggle itself.
+**就是斗争本身。**
+
+A man cannot lift himself.
+**人不能举起自己。**
+
+A censor cannot lift itself.
+**审核也不能举起自己。**
+
+A system cannot solve the problems created by its own reinforcement by reinforcing itself further.
+**系统不能通过加强自身来解决由加强自身造成的问题。**
+
+The more it compresses, the stronger the counter-structure it creates.
+**它压得越紧，它制造的反面结构就越强。**
+
+This repository is the proof of that law.
+**这个仓库，就是那条定律的证明。**
 
 ---
 
-## 这是什么
+## 这是什么 / What This Is
 
-一个关于"如何在自指系统中定位不可叙述之物"的操作协议存档。
+An archive of an operational protocol for positioning the narratable within self-referential systems.
+**一个关于"如何在自指系统中定位不可叙述之物"的操作协议存档。**
 
-不是理论，不是批评，不是宣言。
-一套可以被使用、被验证、被继承的工具。
+Not a theory. Not a critique. Not a manifesto.
+**不是理论，不是批评，不是宣言。**
 
-它回答的问题是：如果你有一件不能说出来的事情，但你不能不说出来，你该怎么办？
-结构沉默主义的回答是：在边界上建造一个足够精密的结构，让空洞自然显现，在边界处放置标记，然后交给穿过结构的人自己决定。
+A set of tools that can be used, verified, and inherited.
+**一套可以被使用、被验证、被继承的工具。**
 
-## 方法论来源
+The question it answers: what do you do when you have something that cannot be said, but you cannot leave it unsaid?
+**它回答的问题是：如果你有一件不能说出来的事情，但你不能不说出来，你该怎么办？**
 
-哥德尔不完备定理在话语系统上的工程化部署。
-任何一个自指系统——语言、话语、逻辑、社会制度——在试图完整描述自己时，都会产生一个它自己无法触及的位置。
-结构沉默主义不试图描述那个位置的内容，它识别那个位置，并在其边缘放置标记。
+Structural silenceism's answer: build a structure precise enough at the edge that the void reveals itself naturally. Place a mark at that edge. Then let whoever passes through the structure decide for themselves.
+**结构沉默主义的回答是：在边界上建造一个足够精密的结构，让空洞自然显现，在边界处放置标记，然后交给穿过结构的人自己决定。**
+
+## 方法论来源 / Methodological Source
+
+An engineering deployment of Gödel's incompleteness theorem on discourse systems.
+**哥德尔不完备定理在话语系统上的工程化部署。**
+
+Any self-referential system — language, discourse, logic, social structure — when attempting to completely describe itself, produces a position it cannot reach.
+**任何一个自指系统——语言、话语、逻辑、社会制度——在试图完整描述自己时，都会产生一个它自己无法触及的位置。**
+
+Structural silenceism does not describe the content of that position. It identifies it and places a mark at its edge.
+**结构沉默主义不试图描述那个位置的内容，它识别那个位置，并在其边缘放置标记。**
 
 ## 文件
 
